@@ -5,3 +5,5 @@
 
 python -m venv <titanic_project>
 <titanic_project>\Scripts\activate.bat
+
+### Thank You
